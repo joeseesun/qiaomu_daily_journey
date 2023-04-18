@@ -1,5 +1,5 @@
 ---
-title: 双金组合：Wordpress + Obsidian
+title: 黄金组合：Wordpress + Obsidian
 tags:
   - wordpress
   - obsidian
